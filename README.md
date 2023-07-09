@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yailynd24
-- 👀 I’m interested in learn automation
+- 👀 I’m interested in learning automation
 - 🌱 I’m currently learning javascript and API automation
 
 <!---
