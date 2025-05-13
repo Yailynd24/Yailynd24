@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yailynd24
+- 👋 Hi, I’m @Yai
 - 👀 I’m interested in learning automation
 - 🌱 I’m currently learning javascript and API automation
 
